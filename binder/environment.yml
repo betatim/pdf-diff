@@ -1,4 +1,5 @@
 dependencies:
   - poppler
+  - pip
   - pip:
     - pdf-diff
